@@ -34,7 +34,7 @@ adb reverse tcp:3333 tcp:3333
 yarn start
 ```
 
-**Uma vez com o container da aplicação back-end em execução e o react native em execução, dentro do diretório da educação, execute o seguinte comando dentro do diretório da aplicação ReactJS:**
+**Uma vez com o container da aplicação back-end em execução e o react native em execução, dentro do diretório da educação, execute o seguinte comando dentro do diretório da aplicação:**
 
 - **Android**
 
