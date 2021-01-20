@@ -1,0 +1,4 @@
+#Tue Jan 19 15:35:16 BRT 2021
+base.0=/media/regis/arquivos/Desenvolvimento/Cursos/rocket_seat_go_stack/frontend/fase1/rocket_seat_go_stack_desafio_conceitos_react_native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
