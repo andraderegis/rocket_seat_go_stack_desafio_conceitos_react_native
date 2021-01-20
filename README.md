@@ -28,13 +28,13 @@ docker run -p 3333:3333 andradereginaldo/go_stack_desafio_backend_nodejs
 adb reverse tcp:3333 tcp:3333
 ```
 
-**Inicialize o ambiente React Native, executando o seguinte comando:**
+**Dentro do diretório da apliação, inicialize o ambiente React Native, executando o seguinte comando:**
 
 ```
 yarn start
 ```
 
-**Uma vez com o container da aplicação back-end em execução e o react native em execução, execute o seguinte comando dentro do diretório da aplicação ReactJS:**
+**Uma vez com o container da aplicação back-end em execução e o react native em execução, dentro do diretório da educação, execute o seguinte comando dentro do diretório da aplicação ReactJS:**
 
 - **Android**
 
